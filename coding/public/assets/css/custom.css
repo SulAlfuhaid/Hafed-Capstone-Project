@@ -1,0 +1,22 @@
+body,*,p,a,strong,span,h1,h2,h3,h4,h6,pre,code,html,head,nav,nav {
+    font-family: 'Cairo';
+}
+
+.header nav {
+    padding: 4px 20px;
+}
+
+.iconColor {
+    color: #cba24d !important;
+}
+.bg-custom {
+    background-color: #cba24d;
+}
+.customcolor {
+    background-color: #4a899a !important;
+}
+
+.text-primary {
+    --bs-text-opacity: 1;
+    color: rgb(204 163 79) !important;
+}

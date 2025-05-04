@@ -1,0 +1,21 @@
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link, .sidebar-nav ul .sidebar-item.selected>.sidebar-link.active, .sidebar-nav ul .sidebar-item>.sidebar-link.active {
+    background-color: #045b75;
+    color: #fff;
+}
+.app-header {
+    box-shadow: 1px 1px 7px 0 #7a7878b5;
+}
+.btn-primary {
+    background-color: #045b75;
+    border-color: #045b75;
+}
+.btn-primary:hover {
+    background-color: #1f5f72;
+    border-color: #1f5f72;
+}
+.active>.page-link, .page-link.active {
+    z-index: 3;
+    color: var(--bs-pagination-active-color);
+    background-color: #045b75;
+    border-color: #045b75;
+}
